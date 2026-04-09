@@ -1,0 +1,3919 @@
+nohup: ignoring input
+
+> admindidww@0.0.0 start
+> node server.js & vite
+
+◇ injected env (4) from .env // tip: ⌘ suppress logs { quiet: true }
+✅ Backend server listening on port 3000
+
+  VITE v8.0.6  ready in 176 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+2:34:44 PM [vite] (client) page reload index.html
+2:34:56 PM [vite] (client) page reload src/main.js
+2:34:56 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:56 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:56 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:56 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:56 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:57 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:58 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:34:59 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:00 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:01 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:02 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:03 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:04 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:05 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:06 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:07 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:08 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:09 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:10 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:11 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:12 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:13 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:14 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:15 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:16 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:17 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:18 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:19 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:20 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:21 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:22 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:23 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+2:35:24 PM [vite] (client) page reload src/main.js
+2:35:24 PM [vite] (client) [Unhandled error] ReferenceError: renderBreakdown is not defined
+ > src/main.js?t=1775583296514:282:48
+
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+2:35:42 PM [vite] (client) hmr update /src/style.css?direct
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+3:31:53 PM [vite] (client) page reload index.html
+3:31:53 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:32:01 PM [vite] (client) hmr update /src/style.css?direct
+3:32:01 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:32:28 PM [vite] (client) page reload src/main.js
+3:32:28 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:32:54 PM [vite] (client) page reload src/main.js
+3:32:54 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:33:35 PM [vite] (client) page reload index.html
+3:33:35 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:33:44 PM [vite] (client) page reload src/main.js
+3:33:44 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:34:01 PM [vite] (client) hmr update /src/style.css?direct
+3:34:01 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:34:12 PM [vite] (client) hmr update /src/style.css?direct
+3:34:12 PM [vite] Internal server error: Cannot apply unknown utility class `border-blue-500`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+  Plugin: @tailwindcss/vite:generate:serve
+  File: /home/epidater/admindidww/index.html?html-proxy&direct&index=0.css
+      at onInvalidCandidate (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:1314)
+      at $e (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:16:37066)
+      at file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:355
+      at Cr (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1733)
+      at _ (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:3:1377)
+      at Ce (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:21:172)
+      at Zi (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:294)
+      at async ua (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:631)
+      at async yf (file:///home/epidater/admindidww/node_modules/tailwindcss/dist/chunk-F4544Y4M.mjs:38:1406)
+      at async uu (file:///home/epidater/admindidww/node_modules/@tailwindcss/node/dist/index.mjs:10:3457)
+3:34:19 PM [vite] (client) page reload index.html
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+3:53:04 PM [vite] (client) page reload index.html
+3:53:32 PM [vite] (client) page reload index.html
+3:53:43 PM [vite] (client) page reload src/main.js
+3:54:04 PM [vite] (client) page reload src/main.js
+3:55:08 PM [vite] (client) page reload src/main.js
+Error page 181: stream has been aborted
+Error page 156: stream has been aborted
+Error page 160: stream has been aborted
+Error page 154: stream has been aborted
+Error page 161: stream has been aborted
+Error page 157: stream has been aborted
+Error page 153: stream has been aborted
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:48 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+6:43:49 PM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+8:38:43 AM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+8:38:43 AM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+8:38:44 AM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+8:38:44 AM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+Error fetching balance: getaddrinfo ENOTFOUND api.didww.com
+8:38:47 AM [vite] (client) [console.error] ❌ Initial load failed Error: Balance fetch failed: 500
+    at init (http://localhost:5173/src/main.js?t=1775588108548:71:35)
+9:22:10 AM [vite] .env changed, restarting server...
+9:22:10 AM [vite] server restarted.
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:22:50 AM [vite] (client) page reload index.html
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:06 AM [vite] (client) page reload index.html
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:19 AM [vite] (client) page reload src/main.js
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:40 AM [vite] (client) page reload src/main.js
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:47 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:23:47 AM [vite] (client) [console.error] Supabase Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:50 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:23:51 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:24:11 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:24:11 AM [vite] (client) [console.error] Supabase Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:24:16 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:24:17 AM [vite] (client) [console.error] Supabase Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:24:18 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:24:29 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:24:37 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:28:17 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:28:19 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:28:19 AM [vite] (client) [console.error] Supabase Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:28:38 AM [vite] (client) [console.error] DO Fetch error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+✅ Retornando DIDs desde caché 18060
+9:32:45 AM [vite] (client) page reload index.html
+9:33:21 AM [vite] (client) page reload src/main.js
+9:33:37 AM [vite] (client) page reload src/main.js
+9:33:59 AM [vite] (client) page reload src/main.js
+9:34:11 AM [vite] (client) page reload src/main.js
+9:34:21 AM [vite] (client) page reload src/main.js
+9:34:32 AM [vite] (client) page reload src/main.js
+9:34:52 AM [vite] (client) page reload index.html
+9:35:09 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:09 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:09 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:10 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:12 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:13 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:14 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:15 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:16 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:17 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:18 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:19 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:20 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:21 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:22 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:23 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:24 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:25 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:26 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:26 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:26 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:26 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:26 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:35:31 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:31 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:31 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:31 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:31 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+9:35:32 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+✅ Retornando DIDs desde caché 18060
+9:42:34 AM [vite] vite.config.js changed, restarting server...
+9:42:34 AM [vite] server restarted.
+9:43:28 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+9:44:11 AM [vite] (client) [console.error] ❌ Load failed SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+✅ Retornando DIDs desde caché 18060
+Killed

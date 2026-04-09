@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="es" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Voxflow - Admin Financiero de DIDWW</title>
+    <!-- Add Google Font Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/style.css" />
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+    </style>
+    <!-- Multi-libraries for PDF -->
+    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
+    <script src="https://unpkg.com/jspdf-autotable@latest/dist/jspdf.plugin.autotable.min.js"></script>
+  </head>
+  <body class="bg-gray-900 text-gray-100 min-h-screen relative overflow-x-hidden">
+    <!-- Decorative background elements -->
+    <div class="fixed top-[-20%] left-[-10%] w-[50%] h-[50%] bg-blue-600 rounded-full mix-blend-multiply filter blur-[150px] opacity-40 z-[-1]"></div>
+    <div class="fixed bottom-[-20%] right-[-10%] w-[50%] h-[50%] bg-purple-600 rounded-full mix-blend-multiply filter blur-[150px] opacity-40 z-[-1]"></div>
+
+    <div class="container mx-auto px-4 py-8 max-w-7xl">
+      <!-- Header -->
+      <header class="flex justify-between items-center mb-10 border-b border-gray-800 pb-6">
+        <div>
+          <h1 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
+            Voxflow Financial Admin
+          </h1>
+          <p class="text-gray-400 mt-2 text-sm">Panel Integrado de gestión DIDWW e Inventario</p>
+        </div>
+        <div id="status-indicator" class="flex items-center space-x-2 bg-gray-800 px-4 py-2 rounded-full border border-gray-700 shadow-lg">
+           <div class="w-3 h-3 bg-yellow-500 rounded-full animate-pulse" id="sync-dot"></div>
+           <span class="text-sm font-medium text-gray-300" id="sync-text">Sincronizando...</span>
+        </div>
+      </header>
+ 
+      <!-- Navigation Tabs -->
+      <nav class="flex space-x-1 mb-8 bg-gray-800/50 p-1 rounded-xl w-fit border border-gray-800">
+        <button id="tab-inventory" class="tab-btn px-6 py-2 rounded-lg text-sm font-medium transition-all hover:bg-gray-700/50 border border-transparent">
+          📦 Inventario de DIDs
+        </button>
+        <button id="tab-billing" class="tab-btn px-6 py-2 rounded-lg text-sm font-medium transition-all hover:bg-gray-700/50 border border-transparent">
+          🧾 Módulo de Facturación
+        </button>
+        <button id="tab-infrastructure" class="tab-btn px-6 py-2 rounded-lg text-sm font-medium transition-all hover:bg-gray-700/50 border border-transparent">
+          🖥️ Infraestructura
+        </button>
+      </nav>
+
+      <!-- Logo for PDF (Hidden) -->
+      <img id="voxflow-logo" src="/logo.png" style="display:none;" alt="VOXFLOW Logo">
+ 
+      <!-- Inventory View -->
+      <div id="inventory-view" class="animate-fade-in">
+        <!-- KPI Widgets -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
+          <!-- Balance -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-blue-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-blue-500/20 rounded-full blur-2xl group-hover:bg-blue-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Saldo Disponible DIDWW</h3>
+            <p class="text-3xl font-bold text-white mb-1" id="kpi-balance">$0.00</p>
+            <div class="flex items-center text-xs">
+              <span class="text-gray-500">Actualizado recién</span>
+            </div>
+          </div>
+
+          <!-- Proyectado Mensual -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-red-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-red-500/20 rounded-full blur-2xl group-hover:bg-red-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Costo Mensual Proyectado</h3>
+            <p class="text-3xl font-bold text-white mb-1" id="kpi-projected">$0.00</p>
+            <div class="flex items-center text-xs">
+              <span class="text-gray-500" id="kpi-total-dids">0 DIDs Activos</span>
+            </div>
+          </div>
+
+          <!-- Burn Rate -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-orange-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-orange-500/20 rounded-full blur-2xl group-hover:bg-orange-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Burn Rate (Días restantes)</h3>
+            <p class="text-3xl font-bold text-white mb-1" id="kpi-burn-rate">0 días</p>
+            <div class="flex items-center text-xs">
+              <span class="text-gray-500">Antes de agotarse el saldo</span>
+            </div>
+          </div>
+
+          <!-- Margin / Orphans -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-purple-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-purple-500/20 rounded-full blur-2xl group-hover:bg-purple-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">DIDs Huérfanos</h3>
+            <p class="text-3xl font-bold text-red-400 mb-1" id="kpi-orphans">0</p>
+            <div class="flex items-center text-xs">
+              <span class="text-red-400/80">Generando fugas de dinero</span>
+            </div>
+          </div>
+
+          <!-- DigitalOcean MTD -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-cyan-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-cyan-500/20 rounded-full blur-2xl group-hover:bg-cyan-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Costos DigitalOcean (MTD)</h3>
+            <p class="text-3xl font-bold text-white mb-1" id="kpi-do-cost">$0.00</p>
+            <div class="flex items-center text-xs">
+              <span class="text-gray-500">Uso acumulado del mes</span>
+            </div>
+          </div>
+
+          <!-- Supabase MTD -->
+          <div class="glass rounded-2xl p-6 relative overflow-hidden group hover:border-green-500 transition-colors duration-300">
+            <div class="absolute -right-4 -top-4 w-24 h-24 bg-green-500/20 rounded-full blur-2xl group-hover:bg-green-500/30 transition-all"></div>
+            <h3 class="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Costo Supabase (Est.)</h3>
+            <p class="text-3xl font-bold text-white mb-1" id="kpi-supabase-cost">$0.00</p>
+            <div class="flex items-center text-xs">
+              <span class="text-gray-500">Suscripción y planes Pro</span>
+            </div>
+          </div>
+        </div>
+   
+        <!-- Upcoming Payments Breakdown -->
+        <div id="breakdown-section" class="mb-10 animate-fade-in hidden">
+          <div class="flex justify-between items-center mb-4">
+            <h2 class="text-xl font-bold text-gray-200 flex items-center gap-2">
+              <svg class="w-5 h-5 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+              Resumen de Cobros por Cliente
+            </h2>
+            <div class="flex items-center gap-2 text-sm">
+              <span class="text-gray-500">Próximos</span>
+              <select id="breakdown-days" class="bg-gray-800 text-white rounded-md px-2 py-1 border border-gray-700 focus:outline-none focus:border-purple-500 transition-colors">
+                <option value="7">7 días</option>
+                <option value="15">15 días</option>
+                <option value="30">30 días</option>
+              </select>
+            </div>
+          </div>
+          <div id="breakdown-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            <!-- Breakdown cards will be injected here -->
+          </div>
+        </div>
+
+        <!-- Main Data Area (Inventory Table) -->
+        <div class="glass rounded-2xl overflow-hidden border border-gray-800 shadow-2xl">
+          
+          <!-- Controls & Filters -->
+          <div class="p-6 border-b border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 bg-gray-900/50">
+            <div class="flex gap-4 w-full md:w-auto">
+              <div class="relative w-full md:w-64">
+                <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                <input type="text" id="search-input" placeholder="Buscar por número..." class="w-full bg-gray-800 text-sm text-white rounded-lg pl-10 pr-4 py-2 border border-gray-700 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors">
+              </div>
+              <select id="filter-status" class="bg-gray-800 text-sm text-white rounded-lg px-4 py-2 border border-gray-700 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors">
+                <option value="all">Estado: Todos</option>
+                <option value="critical">Vencen próximos 7 días</option>
+                <option value="orphans">Huérfanos (Sin descripción)</option>
+              </select>
+              <select id="filter-client" class="bg-gray-800 text-sm text-white rounded-lg px-4 py-2 border border-gray-700 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors max-w-48">
+                <option value="all">Cliente: Todos</option>
+                <!-- Dynamic clients will be injected here -->
+              </select>
+            </div>
+            
+            <div class="flex gap-2">
+                <button id="btn-sync-full" class="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-gray-300 px-4 py-2 rounded-lg font-medium text-sm transition-all border border-gray-700">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                  Sincronizar Inventario (18k)
+                </button>
+                <button id="btn-export" class="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white px-4 py-2 rounded-lg font-medium text-sm transition-all shadow-lg hover:shadow-cyan-500/25">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                  Exportar CSV
+                </button>
+            </div>
+          </div>
+
+          <div id="sync-status-bar" class="px-6 py-2 bg-blue-500/5 text-[10px] text-gray-500 flex justify-between items-center border-b border-gray-800">
+             <span id="backend-sync-info">Estado Servidor: Conectado</span>
+             <span id="last-sync-time">Carga inicial: Diferida</span>
+          </div>
+
+          <!-- Table -->
+          <div class="overflow-x-auto">
+            <table class="w-full text-left border-collapse">
+              <thead>
+                <tr class="bg-gray-800/80 border-b border-gray-700 text-gray-400 text-xs uppercase tracking-wider">
+                  <th class="px-6 py-4 font-medium uppercase tracking-wider">Línea DID</th>
+                  <th class="px-6 py-4 font-medium uppercase tracking-wider">Costo (USD)</th>
+                  <th class="px-6 py-4 font-medium uppercase tracking-wider">Vencimiento</th>
+                  <th class="px-6 py-4 font-medium uppercase tracking-wider">Estado</th>
+                  <th class="px-6 py-4 font-medium uppercase tracking-wider text-right">Referencia / Cliente (DIDWW)</th>
+                </tr>
+              </thead>
+              <tbody id="dids-table-body" class="divide-y divide-gray-800/50">
+                <tr>
+                  <td colspan="5" class="px-6 py-12 text-center text-gray-400">
+                     <div class="flex flex-col items-center gap-4">
+                        <div class="w-16 h-16 rounded-full bg-gray-800/50 flex items-center justify-center text-gray-600">
+                           <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.791 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.791 8-4M4 7c0-2.21 3.582-4 8-4s8 1.791 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.791-8-4"></path></svg>
+                        </div>
+                        <div>
+                          <p class="text-lg font-bold text-gray-300">Inventario en espera</p>
+                          <p class="text-xs text-gray-500">Haz clic en "Sincronizar Inventario" para cargar las 18,000+ líneas.</p>
+                        </div>
+                     </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Pagination -->
+          <div class="p-4 border-t border-gray-800 text-xs text-gray-500 flex flex-col md:flex-row justify-between items-center gap-4 bg-gray-900/50">
+            <span id="table-info">Mostrando 0 registros</span>
+            <div class="flex items-center gap-4">
+                 <button id="btn-prev" class="px-3 py-1 bg-gray-800 hover:bg-gray-700 rounded border border-gray-700 disabled:opacity-30 disabled:cursor-not-allowed transition-colors">Anterior</button>
+                 <span id="page-info" class="font-medium text-gray-300">Página 1</span>
+                 <button id="btn-next" class="px-3 py-1 bg-gray-800 hover:bg-gray-700 rounded border border-gray-700 disabled:opacity-30 disabled:cursor-not-allowed transition-colors">Siguiente</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Inventory View -->
+ 
+      <!-- Billing View -->
+      <div id="billing-view" class="hidden animate-fade-in">
+        <!-- Executive Summary -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+           <div class="glass p-6 rounded-2xl border border-gray-800 bg-blue-500/5">
+              <h3 class="text-gray-500 text-xs font-bold uppercase tracking-widest mb-2">Ingresos Totales (DIDs)</h3>
+              <p class="text-3xl font-bold text-white" id="summary-income">$0.00</p>
+              <p class="text-[10px] text-gray-500 mt-1">Facturado a clientes según inventario</p>
+           </div>
+           <div class="glass p-6 rounded-2xl border border-gray-800 bg-red-500/5">
+              <h3 class="text-gray-500 text-xs font-bold uppercase tracking-widest mb-2">Gastos Totales (Multi-Cloud)</h3>
+              <p class="text-3xl font-bold text-white" id="summary-expenses">$0.00</p>
+              <div class="flex gap-2 mt-1">
+                 <span class="text-[10px] text-red-400" id="summary-didww-cost">DIDWW: $0</span>
+                 <span class="text-[10px] text-cyan-400" id="summary-do-cost">DO: $0</span>
+                 <span class="text-[10px] text-green-400" id="summary-supabase-cost">Supa: $0</span>
+              </div>
+           </div>
+           <div class="glass p-6 rounded-2xl border border-blue-500/30 bg-blue-500/10 relative overflow-hidden">
+              <div class="absolute -right-4 -top-4 w-24 h-24 bg-blue-500/10 rounded-full blur-2xl"></div>
+              <h3 class="text-blue-400 text-xs font-bold uppercase tracking-widest mb-2">Beneficio Neto Real</h3>
+              <p class="text-3xl font-bold text-blue-400" id="summary-profit">$0.00</p>
+              <p class="text-[10px] text-blue-500/80 mt-1">Margen VoxFlowPro & 1kpro - Gastos Gral.</p>
+           </div>
+        </div>
+
+        <!-- Settings Bar -->
+        <div class="glass rounded-2xl p-6 mb-8 flex flex-col md:flex-row justify-between items-center gap-6 border border-gray-800">
+           <div class="flex items-center gap-4">
+              <div class="p-3 bg-blue-500/10 rounded-xl border border-blue-500/20 text-blue-400">
+                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              </div>
+              <div>
+                 <h2 class="text-xl font-bold">Gestión de Cobros</h2>
+                 <p class="text-xs text-gray-400">Genera desgloses y facturas PDF por cliente</p>
+              </div>
+           </div>
+           <div class="flex items-center gap-3 bg-gray-900/50 p-3 rounded-xl border border-gray-800">
+              <label class="text-xs font-bold text-gray-500 uppercase tracking-widest">Precio por DID (Global):</label>
+              <div class="relative">
+                 <span class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">$</span>
+                 <input type="number" id="global-unit-price" value="1.50" step="0.10" class="bg-gray-800 border border-gray-700 rounded-lg pl-7 pr-3 py-1.5 text-sm w-24 focus:outline-none focus:border-blue-500">
+              </div>
+           </div>
+        </div>
+ 
+        <!-- Billing Table -->
+        <div class="glass rounded-2xl overflow-hidden border border-gray-800 shadow-2xl">
+           <div class="overflow-x-auto">
+              <table class="w-full text-left border-collapse">
+                 <thead>
+                    <tr class="bg-gray-800/80 border-b border-gray-700 text-gray-400 text-xs uppercase tracking-wider">
+                       <th class="px-6 py-4 font-medium">Nombre del Cliente</th>
+                       <th class="px-6 py-4 font-medium">DIDs Activos</th>
+                       <th class="px-6 py-4 font-medium">Precio Unit.</th>
+                       <th class="px-6 py-4 font-medium">Minutos</th>
+                       <th class="px-6 py-4 font-medium text-red-400">Costo Voz</th>
+                       <th class="px-6 py-4 font-medium">Monto Total</th>
+                       <th class="px-6 py-4 font-medium text-right">Acciones</th>
+                    </tr>
+                 </thead>
+                 <tbody id="billing-table-body" class="divide-y divide-gray-800 text-sm">
+                    <!-- Billing rows injected here -->
+                    <tr><td colspan="5" class="px-6 py-8 text-center text-gray-500">Cargando datos de facturación...</td></tr>
+                 </tbody>
+              </table>
+           </div>
+        </div>
+      </div>
+      <!-- End Billing View -->
+ 
+      <!-- Infrastructure View -->
+      <div id="infrastructure-view" class="hidden animate-fade-in space-y-8">
+        <!-- DigitalOcean Section -->
+        <div>
+          <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" class="w-6 h-6" alt="DO">
+            Droplets de DigitalOcean
+          </h2>
+          <div id="droplets-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="glass p-6 rounded-2xl animate-pulse text-gray-500 text-center">Cargando Droplets...</div>
+          </div>
+        </div>
+
+        <!-- Supabase Section -->
+        <div>
+          <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
+            <img src="https://supabase.com/favicons/favicon-32x32.png" class="w-6 h-6" alt="Supa">
+            Proyectos de Supabase
+          </h2>
+          <div id="supabase-projects-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="glass p-6 rounded-2xl animate-pulse text-gray-500 text-center">Cargando Proyectos...</div>
+          </div>
+        </div>
+      </div>
+      <!-- End Infrastructure View -->
+ 
+      <!-- Invoice Modal -->
+      <div id="invoice-modal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-[100] hidden flex items-center justify-center p-4">
+         <div class="bg-gray-900 border border-gray-800 rounded-3xl w-full max-w-4xl max-h-[90vh] overflow-hidden flex flex-col animate-fade-in shadow-2xl">
+            <!-- Modal Header -->
+            <div class="p-6 border-b border-gray-800 flex justify-between items-center bg-gray-800/20">
+               <div>
+                  <h2 class="text-xl font-bold flex items-center gap-2">
+                     <span class="text-blue-400" id="modal-invoice-number">FACT-1000</span>
+                     <span class="text-gray-500 ml-2 text-sm font-normal" id="modal-client-name">Cliente</span>
+                  </h2>
+               </div>
+               <button id="close-modal" class="text-gray-500 hover:text-white transition-colors">
+                  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+               </button>
+            </div>
+            
+            <!-- Modal Content (Scrollable) -->
+            <div class="p-6 overflow-y-auto flex-grow bg-gray-900/50">
+               <!-- Concept Editor -->
+               <div class="mb-8">
+                  <h3 class="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">Conceptos de Factura</h3>
+                  <table class="w-full text-sm">
+                     <thead class="text-gray-500 border-b border-gray-800">
+                        <tr>
+                           <th class="py-2 font-medium text-left">Descripción</th>
+                           <th class="py-2 px-4 font-medium text-center w-20">Cant.</th>
+                           <th class="py-2 px-4 font-medium text-right w-28">Precio Unit.</th>
+                           <th class="py-2 px-4 font-medium text-right w-24">Total</th>
+                           <th class="py-2 font-medium text-right w-10"></th>
+                        </tr>
+                     </thead>
+                     <tbody id="invoice-items-body" class="divide-y divide-gray-800/50">
+                        <!-- Items here -->
+                     </tbody>
+                  </table>
+                  
+                  <!-- Add Item Button -->
+                  <button id="btn-add-item" class="mt-4 flex items-center gap-2 text-xs font-bold text-blue-400 hover:text-blue-300 transition-colors uppercase tracking-wider">
+                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                     Añadir nuevo concepto
+                  </button>
+               </div>
+ 
+               <!-- Summary & Info -->
+               <div class="grid grid-cols-1 md:grid-cols-2 gap-8 pt-6 border-t border-gray-800">
+                  <div>
+                     <h3 class="text-xs font-bold text-gray-500 uppercase tracking-widest mb-3">Notas de Factura</h3>
+                     <textarea id="invoice-notes" placeholder="Ej: Servicios de abril 2024..." class="w-full h-24 bg-gray-800/50 border border-gray-800 rounded-xl p-4 text-sm text-gray-300 focus:outline-none focus:border-blue-500 transition-colors"></textarea>
+                  </div>
+                  <div class="bg-blue-500/5 rounded-2xl p-6 border border-blue-500/10">
+                     <div class="flex justify-between items-center mb-2">
+                        <span class="text-gray-400">Subtotal</span>
+                        <span class="text-white font-medium" id="modal-subtotal">$0.00</span>
+                     </div>
+                     <div class="flex justify-between items-center pt-2 border-t border-gray-800 mt-2">
+                        <span class="text-gray-400 font-bold">Total a Facturar</span>
+                        <span class="text-3xl font-bold text-blue-400" id="modal-total">$0.00</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+ 
+            <!-- Footer Actions -->
+            <div class="p-6 border-t border-gray-800 bg-gray-800/20 flex justify-between items-center">
+               <div class="text-xs text-gray-500">Se usará numero FAC-XXXX secuencial</div>
+               <button id="btn-download-pdf" class="flex items-center gap-3 px-8 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 font-bold text-sm transition-all shadow-xl hover:shadow-blue-500/25">
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                  Descargar Factura PDF
+               </button>
+            </div>
+         </div>
+      </div>
+      <!-- End Invoice Modal -->
+
+      <!-- Usage Detail Modal -->
+      <div id="usage-modal" class="fixed inset-0 bg-black/80 backdrop-blur-md z-[110] hidden flex items-center justify-center p-4">
+         <div class="bg-gray-900 border border-gray-800 w-full max-w-lg rounded-3xl shadow-2xl overflow-hidden">
+            <div class="p-6 border-b border-gray-800 flex justify-between items-center bg-gray-800/20">
+               <div>
+                  <h2 class="text-xl font-bold text-white">Detalle de Uso de Voz</h2>
+                  <p class="text-xs text-blue-400 font-bold uppercase tracking-wider mt-1" id="usage-client-name">Cliente</p>
+               </div>
+               <button id="close-usage-modal" class="p-2 hover:bg-white/5 rounded-full text-gray-400 transition-colors">
+                  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+               </button>
+            </div>
+            <div class="p-8 space-y-6">
+               <div class="grid grid-cols-2 gap-4">
+                  <div class="bg-gray-800/40 p-4 rounded-2xl border border-gray-800">
+                     <span class="text-xs text-gray-500 block mb-1 uppercase font-black">Minutos Totales</span>
+                     <span class="text-2xl font-bold text-white tracking-tight" id="usage-total-minutes">0.0</span>
+                  </div>
+                  <div class="bg-gray-800/40 p-4 rounded-2xl border border-gray-800">
+                     <span class="text-xs text-gray-500 block mb-1 uppercase font-black">Costo DIDWW</span>
+                     <span class="text-2xl font-bold text-red-400 tracking-tight" id="usage-total-cost">$0.00</span>
+                  </div>
+               </div>
+               
+               <div class="bg-blue-500/5 p-6 rounded-2xl border border-blue-500/10">
+                  <div class="flex justify-between items-center mb-4">
+                     <span class="text-[10px] font-black text-blue-400 uppercase tracking-[0.2em]">Estadísticas</span>
+                  </div>
+                  <div class="space-y-4">
+                     <div class="flex justify-between text-sm">
+                        <span class="text-gray-400">Total de llamadas:</span>
+                        <span class="text-white font-bold" id="usage-total-calls">0</span>
+                     </div>
+                     <div class="flex justify-between text-sm">
+                        <span class="text-gray-400">Costo promedio/min:</span>
+                        <span class="text-white font-bold" id="usage-avg-cost">$0.00</span>
+                     </div>
+                  </div>
+               </div>
+               <p class="text-[10px] text-gray-600 italic text-center uppercase tracking-widest font-bold">
+                  Sincronizado vía DIDWW CDR API
+               </p>
+            </div>
+            <div class="p-6 border-t border-gray-800 bg-gray-800/40 flex justify-end">
+               <button id="btn-usage-ok" class="px-10 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-sm transition-all shadow-lg hover:shadow-blue-500/20">
+                  Cerrar
+               </button>
+            </div>
+         </div>
+      </div>
+      <!-- End Usage Modal -->
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

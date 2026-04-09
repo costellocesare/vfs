@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .glass {
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+}
+
+body {
+    background-color: #0f172a;
+    color: #f8fafc;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Tabs */
+.tab-btn {
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+    color: rgb(156, 163, 175);
+}
+
+.tab-btn:hover {
+    color: rgb(226, 232, 240);
+}
+
+.tab-btn.active {
+    background-color: rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.5);
+    color: rgb(96, 165, 250);
+    box-shadow: 0 0 15px rgba(59, 130, 246, 0.1);
+}
+
+.tab-active {
+    border-color: rgb(59, 130, 246);
+    color: rgb(96, 165, 250);
+    background-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Billing specific */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Modal animation */
+#invoice-modal.hidden {
+    display: none;
+}
+
+/* Custom table backgrounds */
+tr.bg-blue-500\/5 {
+    background-color: rgba(59, 130, 246, 0.05);
+}
